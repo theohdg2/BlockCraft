@@ -1,0 +1,6 @@
+#defini les craft qui seront bloquer
+
+#le nom du craft n'as pas d'importance
+
+bloqued-craft:
+  tapped_chest: "146:0"
